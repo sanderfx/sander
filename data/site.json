@@ -1,30 +1,30 @@
 {
   "studio": "Ejigbo Fotografia",
-  "tagline": "Histórias reais. Imagens que permanec.",
-  "hero_title": "O extraordinário mora no instante.",
-  "hero_text": "Fotografia autoral para transformar encontros, afetos e celebrações em memórias vivas.",
-  "intro_title": "Mais que imagens. Presença.",
-  "intro_text": "Cada história pede um olhar único. Conheça o trabalho, explore as galerias e vamos criar algo memorável.",
-  "about_title": "Por trás de cada imagem, um olhar atento.",
-  "about_text": "Olá! Sou fotógrafo e acredito na força dos instantes verdadeiros. Aqui, cada fotografia nasce do encontro entre sensibilidade, luz e história. Edite este texto no painel para contar sua trajetória.",
+  "tagline": "Fé, ancestralidade e memória em cada imagem.",
+  "hero_title": "O sagrado vive na memória.",
+  "hero_text": "Fotografia documental de Candomblé e Umbanda. Um olhar sensível sobre a fé, os gestos, os encontros e as histórias que merecem permanecer.",
+  "intro_title": "Fotografar é também saber respeitar.",
+  "intro_text": "Cada imagem nasce da escuta, do cuidado e da confiança. A fotografia de tradições de matriz africana exige presença, sensibilidade e respeito aos limites de cada comunidade.",
+  "about_title": "Um olhar dedicado à fé e à ancestralidade.",
+  "about_text": "Sou fotógrafo e dedico meu olhar ao registro das expressões de fé, cultura e pertencimento no Candomblé e na Umbanda. Acredito na força da imagem como memória e preservação das histórias. Personalize aqui sua trajetória, sua relação com as comunidades e sua maneira de fotografar.",
   "location": "Rio de Janeiro · Brasil",
   "phone": "",
   "whatsapp": "",
   "instagram": "",
   "email": "",
-  "services_title": "Experiências fotográficas",
+  "services_title": "Histórias que merecem permanecer.",
   "services": [
     {
-      "name": "Retratos & ensaios",
-      "text": "A sua essência, com luz, direção e naturalidade."
+      "name": "Candomblé",
+      "text": "Registros de festas públicas, celebrações e momentos autorizados, com respeito às tradições de cada casa."
     },
     {
-      "name": "Eventos & celebrações",
-      "text": "O que importa, registrado com sensibilidade."
+      "name": "Umbanda",
+      "text": "Fotografia de celebrações e encontros, valorizando as pessoas, os gestos e as expressões de fé."
     },
     {
-      "name": "Cultura & tradição",
-      "text": "Respeito, identidade e narrativas que atravessam gerações."
+      "name": "Retratos & memória",
+      "text": "Retratos de lideranças, integrantes e comunidades para preservar histórias e identidades."
     }
   ],
   "hero_image": "",
