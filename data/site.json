@@ -1,0 +1,33 @@
+{
+  "studio": "Ejigbo Fotografia",
+  "tagline": "Histórias reais. Imagens que permanec.",
+  "hero_title": "O extraordinário mora no instante.",
+  "hero_text": "Fotografia autoral para transformar encontros, afetos e celebrações em memórias vivas.",
+  "intro_title": "Mais que imagens. Presença.",
+  "intro_text": "Cada história pede um olhar único. Conheça o trabalho, explore as galerias e vamos criar algo memorável.",
+  "about_title": "Por trás de cada imagem, um olhar atento.",
+  "about_text": "Olá! Sou fotógrafo e acredito na força dos instantes verdadeiros. Aqui, cada fotografia nasce do encontro entre sensibilidade, luz e história. Edite este texto no painel para contar sua trajetória.",
+  "location": "Rio de Janeiro · Brasil",
+  "phone": "",
+  "whatsapp": "",
+  "instagram": "",
+  "email": "",
+  "services_title": "Experiências fotográficas",
+  "services": [
+    {
+      "name": "Retratos & ensaios",
+      "text": "A sua essência, com luz, direção e naturalidade."
+    },
+    {
+      "name": "Eventos & celebrações",
+      "text": "O que importa, registrado com sensibilidade."
+    },
+    {
+      "name": "Cultura & tradição",
+      "text": "Respeito, identidade e narrativas que atravessam gerações."
+    }
+  ],
+  "hero_image": "",
+  "about_image": "",
+  "photos": []
+}
