@@ -1,0 +1,24 @@
+EJIGBO FOTOGRAFIA — PORTFÓLIO EDITORIAL 2026
+
+Inspirado na linguagem de sites de fotografia autoral: navegação lateral, imagens protagonistas, mosaico e tipografia editorial. Identidade e arquivos próprios.
+
+PUBLICAÇÃO GRATUITA NO GITHUB PAGES
+1. Faça backup dos arquivos atuais no seu repositório.
+2. Extraia este ZIP e envie o CONTEÚDO da pasta para a raiz do repositório (não envie o ZIP apenas).
+3. Confirme que index.html, admin.html, assets/, data/ e uploads/ estão na raiz.
+4. GitHub > Settings > Pages > Deploy from a branch > main / root.
+5. Abra https://SEU-USUARIO.github.io/NOME-REPOSITORIO/
+
+PAINEL
+Abra /admin.html no mesmo endereço. O painel permite editar textos, fotos, fotos de capa e retrato, links e serviços.
+Para publicar, forneça temporariamente um token do GitHub restrito ao repositório com permissão Contents: read/write. NUNCA coloque o token nos arquivos nem o compartilhe.
+Veja README-INSTALACAO.txt para detalhes.
+
+IMPORTANTE
+- Não há imagens de rituais incluídas. Adicione somente fotografias próprias e autorizadas.
+- O GitHub Pages serve HTML/CSS/JS. O painel faz alterações via GitHub API depois da autorização do proprietário. O endereço do painel é público, mas sem credenciais não pode alterar o repositório.
+- Faça backup antes de substituir a versão antiga. Imagens excluídas podem permanecer no histórico público do GitHub.
+- CSS principal: assets/style.css
+- HTML público: index.html
+- JavaScript da galeria: assets/public.js
+- Dados publicados: data/site.json

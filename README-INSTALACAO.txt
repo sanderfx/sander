@@ -26,3 +26,12 @@ OBSERVAÇÕES IMPORTANTES
 - GitHub Pages não executa PHP, e esta versão foi feita em HTML/CSS/JS + GitHub API.
 - Para endereço personalizado, é necessário configurar DNS/CNAME no GitHub.
 - O painel precisa de internet e requer permissões do navegador para acessar a API do GitHub.
+
+
+IDENTIDADE CULTURAL — CANDOMBLÉ E UMBANDA
+Esta versão foi personalizada para fotografia de Candomblé e Umbanda.
+O CSS principal está em assets/style.css. O CSS do painel está em assets/painel.css.
+Use fotografias próprias e autorizadas pela comunidade. Não publique ritos reservados
+ou fotos de pessoas sem a devida autorização.
+No painel, sugerimos categorias: Candomblé, Umbanda, Retratos e Memória.
+Não publique tokens, senhas ou dados privados no repositório público.
